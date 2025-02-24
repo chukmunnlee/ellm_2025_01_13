@@ -30,4 +30,3 @@ for d in data:
     print(f'\t{d}')
     SentenceTransformer(d)
 
-

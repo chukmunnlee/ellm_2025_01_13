@@ -1,9 +1,6 @@
 {
   "name": "Custom Generative AI Systems for Enterprises - Workshop",
   "image": "python:3.12",
-  "hostRequirements": {
-    "cpus": 2
-  },
 
   "postCreateCommand": "/bin/sh .devcontainer/post-create.sh",
 
